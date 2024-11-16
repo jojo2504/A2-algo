@@ -1,0 +1,15 @@
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\net8.0\ConsoleApplication1.exe
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\net8.0\ConsoleApplication1.deps.json
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\net8.0\ConsoleApplication1.runtimeconfig.json
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\net8.0\ConsoleApplication1.dll
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\net8.0\ConsoleApplication1.pdb
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\net8.0\ConsoleApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\net8.0\ConsoleApplication1.AssemblyInfoInputs.cache
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\net8.0\ConsoleApplication1.AssemblyInfo.cs
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\net8.0\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\net8.0\ConsoleApplication1.sourcelink.json
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\net8.0\ConsoleApplication1.dll
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\net8.0\refint\ConsoleApplication1.dll
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\net8.0\ConsoleApplication1.pdb
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\net8.0\ConsoleApplication1.genruntimeconfig.cache
+C:\Users\Jojo\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\net8.0\ref\ConsoleApplication1.dll
